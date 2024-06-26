@@ -17,13 +17,15 @@ Pour un article, il souhaite renseigner :
 2. Afficher la liste des articles au format ci-dessous :
 
     `
-    N°  Nom     Prix unitaire   Quantité en stock
 
-    1   Art 1   1500            18
+        N°  Nom     Prix unitaire   Quantité en stock
 
-    2   Art 2   27000           52
+        1   Art 1   1500            18
 
-    …   …       …               …
+        2   Art 2   27000           52
+
+        …   …       …               …
+
     `
 
 3. Rechercher un article à partir de son nom et afficher les informations (prix unitaire, quantité en stock) de l’article.
@@ -38,15 +40,17 @@ Si l’enregistrement est effectué, vous afficherez le prix total à payer.
 2. Afficher la liste des ventes au format ci-dessous :
 
     `
-    N°  Article     Prix unitaire   Quantité achetée    Prix total
 
-    1   Art 1       1500            2                   3000
+        N°  Article     Prix unitaire   Quantité achetée    Prix total
 
-    2   Art 1       1500            5                   7500
+        1   Art 1       1500            2                   3000
 
-    3   Art 2       27000           1                   27000
+        2   Art 1       1500            5                   7500
 
-    …   …           …               …                   …
+        3   Art 2       27000           1                   27000
+
+        …   …           …               …                   …
+
     `
 
 3. Afficher le montant total des ventes effectuées ;
