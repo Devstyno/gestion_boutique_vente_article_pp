@@ -36,9 +36,13 @@ Si l’enregistrement est effectué, vous afficherez le prix total à payer.
 
     `
     N°  Article     Prix unitaire   Quantité achetée    Prix total
+
     1   Art 1       1500            2                   3000
+
     2   Art 1       1500            5                   7500
+
     3   Art 2       27000           1                   27000
+
     …   …           …               …                   …
     `
 
